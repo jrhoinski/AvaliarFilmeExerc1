@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AvaliarFilmeExerc1</string>
+    <string name="Salvar">Salvar</string>
+    <string-array name="spinnerGenero">
+        <item>Terror</item>
+        <item>Suspense</item>
+        <item>Comédia</item>
+        <item>Romantico</item>
+        <item>Aventura</item>
+    </string-array>
+</resources>
